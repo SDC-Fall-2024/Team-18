@@ -3,10 +3,10 @@ _This is just a suggested template for the README of your project, feel free to 
 
 ### Team Members
 - Austin Tsai (Project Lead)
-- Name 2
-- Name 3
-- Name 4
-- Name 5
+- Daksh Raghuvanshi
+- Emerson Shaw
+- Raghav Iyer
+- Siddharth Germilla
 
 ### Project Description
 Describe the goal of your project here.
